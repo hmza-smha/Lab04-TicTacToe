@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Lab04_TicTacToe
-{ 
-    class Board
+{
+	public class Board
     {
 		/// <summary>
 		/// Tic Tac Toe Gameboard states
